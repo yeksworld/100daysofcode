@@ -1,7 +1,7 @@
 from random import randint
 
-EASY_LEVEL_TURNS = 10
-HARD_LEVEL_TURNS = 5
+EASY_LEVEL_TURNS = 8
+HARD_LEVEL_TURNS = 4
 
 #Function to check user's guess against actual answer.
 def check_answer(guess, answer, turns):
